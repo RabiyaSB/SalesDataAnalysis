@@ -16,17 +16,6 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 - Product and regional performance insights
 - AI visuals (Smart Narrative, Decomposition Tree)
 
-## 📊 Dashboard Preview
-
-### Overview
-![Overview](overview.png)
-
-### Product Analysis
-![Product](product.png)
-
-### Regional Analysis
-![Regional](regional.png)
-
 ## 💡 Business Insights
 - Identified top-performing regions and products
 - Highlighted underperforming categories
